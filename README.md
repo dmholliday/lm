@@ -6,7 +6,7 @@ In the included folders you'll find the code for the two tasks, including binari
 
 Task 1 is in the barcode folder and Task 2 is in the database folder.
 
-These were fun to learn how to some things in C that I haven't done before.  I've done similar things in Python, but never C.
+These were fun to learn how to do some things in C that I haven't done before.  I've done similar things in Python, but never C.
 
 Task 1 was tested by running a local netcat session and sending strings to the client once it connects.
 
